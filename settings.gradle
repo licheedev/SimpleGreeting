@@ -1,0 +1,3 @@
+include ':greeting'
+include ':app'
+rootProject.name = "Greeting"
